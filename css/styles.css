@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 .CTA-button {
     margin-top: 20px;
     font-family: 'Advent Pro', sans-serif;
+    margin-bottom: 40px;
 }
 
 .CTA-button:hover {
